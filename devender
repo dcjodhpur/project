@@ -7,7 +7,7 @@
 Body {  
   font-family: Calibri, Helvetica, sans-serif;  
   background-color: pink;  
-}  
+} 
 button {   
        background-color: #4CAF50;   
        width: 100%;  
